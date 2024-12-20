@@ -1,7 +1,7 @@
 - Hi, I’m @JNHightower
-- I’m interested in wildlife ecology and conservation
-- I’m currently learning all things population modeling related
-- I’m looking to collaborate on habitat suitability models, SDMs, integrated population models, population viability analyses 
+- I’m interested in wildlife ecology and conservation, biodiversity assessment and monitoring, and spatial analysis
+- I’m currently working on integrating earth observations and in situ biodiversity data for better conservation practices
+- I’m looking to collaborate on SDMs, ecological analyses in GEE, multi-species occupancy modeling, hierachical bayesian models
 - How to reach me ... hightower.jn@gmail.com 
 
 <!---
